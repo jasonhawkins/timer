@@ -12,4 +12,4 @@ done
 
 echo "\nTimer done."
 
-osascript -e 'display notification "Timer has ended." with title "Timer
+osascript -e 'display notification "Timer has ended." with title "Timer"'
